@@ -36,3 +36,4 @@
 
 public/uploads/
 !/app/assets/images/.keep
+!/vendor/javascript/.keep
